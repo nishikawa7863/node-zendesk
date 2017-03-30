@@ -1,4 +1,5 @@
 # node-zendesk
+## Modified to support Nodes err,res instead of err,req,res
 ---
 
 [![Join the chat at https://gitter.im/blakmatrix/node-zendesk](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/blakmatrix/node-zendesk?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
